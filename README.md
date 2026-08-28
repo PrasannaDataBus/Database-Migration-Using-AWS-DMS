@@ -286,7 +286,7 @@ sudo shutdown -h now
 
 Conclusion:
 
-We have successfully done the following:
+I have successfully done the following:
 
 1. Created an Amazon Aurora database
 2. Migrated the existing database to Aurora with AWS DMS
@@ -294,6 +294,13 @@ We have successfully done the following:
 
 REFERENCES:
 https://docs.aws.amazon.com/dms/
+
+## 🛡️ Copyright & Compliance Notice
+© 2026 PrasannaDataBus. All rights reserved. This repository and its contents are intended solely for self learning and portfolio demonstration purposes.
+
+All screenshots, configuration snippets, and architecture diagrams related to Amazon Web Services (AWS) are used under fair use for illustrative and informational purposes only. AWS, the AWS logo, AWS Services and all related marks are trademarks of Amazon Web Services, Inc. or its affiliates.
+
+No proprietary AWS data, credentials, or customer information are included. Do not reuse or redistribute any part of this repository without explicit permission from the author.
 
 
 
